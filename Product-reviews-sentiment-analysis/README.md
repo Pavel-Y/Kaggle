@@ -15,7 +15,7 @@ intersections in train and test data, what has brought such good result.
  
 ### Models
  * RussianStemmer   - as data preparation
- * CountVectorizer  - as data vaporizing
+ * CountVectorizer  - as data vectorization
  * TfidfTransformer - as transformation of vectors
  * RidgeClassifier  - as classifier
   
