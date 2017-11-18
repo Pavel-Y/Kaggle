@@ -1,4 +1,4 @@
 #### Description
 
-Publishing results os some Kaggle competitions.  
+Publishing results of some Kaggle competitions.  
 Each competition contains its out README with tasks description.
