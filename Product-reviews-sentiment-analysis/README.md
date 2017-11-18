@@ -1,6 +1,6 @@
 ## Product review sentiment analysis
 
-[Competition link](https://www.kaggle.com/c/product-reviews-sentiment-analysis)
+[Competition link](https://www.kaggle.com/c/product-reviews-sentiment-analysis/leaderboard)
 
 ### Target
 Only test dataset is given. 
@@ -20,5 +20,5 @@ intersections in train and test data, what has brought such good result.
  * RidgeClassifier  - as classifier
   
 ### Result
- * Public leaderboard  - 100%
+ * Public leaderboard  - 100% and 11 place :)
  * Private leaderboard - is unknown for now
