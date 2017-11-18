@@ -9,9 +9,9 @@ So it needs to be done:
  * Mark raw data
  * Train model and send prediction
  
-As a source of train data I've decided to use market.yandex.ru, as a side with good structure and huge amount of reviews. 
+As a source of train data I've decided to use market.yandex.ru, as a site with good structure and huge amount of reviews. 
 What makes it easy to parse all necessary data. But due to organizer of the competition is Yandex as well I think that there are some 
-intersections in train and test data, what has brought such good result.
+intersections in train and test data, which has brought such good result.
  
 ### Models
  * RussianStemmer   - as data preparation
