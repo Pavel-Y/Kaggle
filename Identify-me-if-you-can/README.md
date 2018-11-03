@@ -17,5 +17,5 @@ Classify sessions in test data.
  * LogisticRegression - for creating submissions
   
 ### Result
- * Public leaderboard  - 0.20218 and 9 place out of 119
- * Private leaderboard - is unknown for now
+ * Public leaderboard  - 0.20218 and 9 place out of 121
+ * Private leaderboard - 0.19942 7 place out of 121
