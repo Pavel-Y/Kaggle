@@ -3,17 +3,17 @@
 [Competition link](https://www.kaggle.com/c/titanic/leaderboard)
 
 ### Description
-TBD
+ Given data about passengers of Titanic. Todo predict who will survived
 
 ### Target
-TBD 
+ Classify passengers on two classes: 'Survived', 'Died'
  
 ### Metric
  Accuracy
  
 ### Models
- TBD
+ * RandomForestClassifier
   
 ### Result
- * Public leaderboard  - TBD
- * Private leaderboard - is unknown yet
+ * Public leaderboard  - 0.80861 and 820 place out of 9990 (top 9%)
+ * Private leaderboard - seems like we will never know

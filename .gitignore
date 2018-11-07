@@ -3,5 +3,5 @@ data/
 .ipynb_checkpoints/
 
 Kaggle.iml
-result.csv
+result*.csv
 *_scratch.ipynb
