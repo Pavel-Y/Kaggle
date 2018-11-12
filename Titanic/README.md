@@ -15,5 +15,5 @@
  * RandomForestClassifier
   
 ### Result
- * Public leaderboard  - 0.80861 and 820 place out of 9990 (top 9%)
+ * Public leaderboard  - 0.82296 and 458 place out of 10000+ (top 5%)
  * Private leaderboard - seems like we will never know
